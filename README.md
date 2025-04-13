@@ -7,6 +7,7 @@ Features
    Performance Tracking: Records your solve times, providing statistics like best, worst, and average times.
 
 Technologies Used:
+
     HTML5​
     
     CSS3​
